@@ -46,3 +46,9 @@ Wyznaczyć punkt symetryczny do punktu
 $$
 P = (4,-1,4)
 $$
+
+względem płaszczyzny
+
+$$
+\pi: -x+y-z+3=0
+$$
