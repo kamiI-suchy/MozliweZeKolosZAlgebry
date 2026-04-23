@@ -1,0 +1,21 @@
+1. Zdefiniować liczby zespolone jako pary liczb rzeczywistych z odpowiednimi działaniami.
+Zdefiniować jednostkę urojoną.
+2. Omówić postać algebraiczną i trygonometryczną liczby zespolonej.
+3. Omówić w zbiorze liczb zespolonych działania mnożenia przez liczbę rzeczywistą, dodawania,
+odejmowania, mnożenia i dzielenia zarówno w postaci trygonometrycznej jak i algebraicznej.
+4. Podać wzory de Moivre’a i podać wnioski z nich wynikające dla istnienia, ilości oraz rozkładu
+pierwiastków zespolonych na płaszczyźnie zespolonej.
+5. Podać definicję wyznacznika macierzy wg Laplace’a. Wymienić i opisać 4 wybrane własności
+wyznacznika.
+6. Zdefiniować macierz odwrotną oraz podać sposób jej wyznaczania. Podać warunek konieczny
+istnienia macierzy odwrotnej.
+7. Omówić rozwiązywanie najprostszych równań macierzowych.
+8. Omówić układy równań liniowych Cramera.
+9. Omówić metodę Gaussa rozwiązywania układów równań liniowych.
+10. Omówić iloczyn skalarny i jego zastosowania.
+11. Omówić iloczyn wektorowy i jego zastosowania.
+12. Omówić iloczyn mieszany i jego zastosowania.
+13. Omówić równanie płaszczyzny w przestrzeni 3-wymiarowej.
+14. Omówić równanie prostej w przestrzeni 3-wymiarowej.
+15. Omówić wzajemne położenie prostej i płaszczyzny w przestrzeni 3-wymiarowej.
+16. Omówić wzajemne położenie dwóch prostych w przestrzeni 3-wymiarowej.
