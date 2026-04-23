@@ -23,3 +23,17 @@ $$
 6t+2x-4y-2z=6.
 \end{cases}
 $$
+
+## Zadanie 3
+Zdefiniować macierz odwrotną oraz podać sposób jej wyznaczania. Podać warunek konieczny istnienia macierzy odwrotnej.
+
+Dla jakich rzeczywistych wartości parametru x macierz A posiada odwrotność?
+
+$$
+A=
+\begin{bmatrix}
+2x-4&x+4&-1\\
+2&x+3&-2\\
+0&3&-1
+\end{bmatrix}.
+$$
