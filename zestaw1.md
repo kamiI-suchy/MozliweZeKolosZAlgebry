@@ -1,4 +1,4 @@
-# Rozwiązania zadań ze zdjęcia
+# Rozwiązania zadań z zestawu 1
 
 ## Zadanie 1
 Omówić w zbiorze liczb zespolonych działania w postaci algebraicznej: dodawanie, odejmowanie, mnożenie, dzielenie i wyznaczanie pierwiastka kwadratowego.
@@ -59,5 +59,7 @@ Omówić wzajemne położenie prostych skośnych w przestrzeni 3-wymiarowej.
 Obliczyć odległość prostych skośnych
 
 $$
-l_1:\frac{x+3}{-3}=\frac{y-3}{-2}=\frac{z-2}{-2}
+l_1:\frac{x+3}{-3}=\frac{y-3}{-2}=\frac{z-2}{-2}, l_2:\frac{x-2}{4}=\frac{y-3}{2}=\frac{z-3}{4}.
 $$
+
+Wyznaczyć punkty realizujące minimalną odległość.
