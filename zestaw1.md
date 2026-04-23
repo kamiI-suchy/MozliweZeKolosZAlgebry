@@ -37,3 +37,12 @@ A=
 0&3&-1
 \end{bmatrix}.
 $$
+
+## Zadanie 4
+Omówić równanie prostej i płaszczyzny w przestrzeni 3-wymiarowej.
+
+Wyznaczyć punkt symetryczny do punktu
+
+$$
+P = (4,-1,4)
+$$
