@@ -51,6 +51,8 @@ A=
 \end{bmatrix}.
 $$
 
+Wyznaczyć macierz odwrotną dla x=-1. Wykonać sprawdzenie.
+
 ## Zadanie 5
 Omówić równanie prostej i płaszczyzny w przestrzeni 3-wymiarowej.
 
