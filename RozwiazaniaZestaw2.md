@@ -219,8 +219,8 @@ A=\begin{bmatrix}
 \end{bmatrix},
 \quad
 A^{-1}=\begin{bmatrix}
--\frac16&0&\frac16\\[2mm]
--\frac1{12}&-\frac14&\frac7{12}\\[2mm]
+-\frac16&0&\frac16\\
+-\frac1{12}&-\frac14&\frac7{12}\\
 -\frac14&-\frac34&\frac34
 \end{bmatrix}.
 $$
