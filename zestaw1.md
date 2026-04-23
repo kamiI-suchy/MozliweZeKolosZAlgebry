@@ -52,3 +52,12 @@ względem płaszczyzny
 $$
 \pi: -x+y-z+3=0
 $$
+
+## Zadanie 5
+Omówić wzajemne położenie prostych skośnych w przestrzeni 3-wymiarowej.
+
+Obliczyć odległość prostych skośnych
+
+$$
+l_1:\frac{x+3}{-3}=\frac{y-3}{-2}=\frac{z-2}{-2}
+$$
